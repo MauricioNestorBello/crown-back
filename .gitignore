@@ -1,0 +1,7 @@
+node_module/
+
+.env
+
+uploads/users/**.*
+uploads/categories/**.*
+uploads/products/**.*
